@@ -1,1 +1,1 @@
-# Fourstrok-engine-
+# Fourstrok-engine- I’m skilled in 3D modeling with Catia V5, specializing in 4-cylinder engine design. I’ve used advanced features for accurate component replication and assembly. My expertise includes parametric modeling, assembly design, and tolerance analysis. I’ve developed a detailed 4-cylinder engine model for optimal performance, demonstrating problem-solving and design optimization skills.
